@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\sharing_paths.xml",
+        "source": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\res\\xml\\sharing_paths.xml"
+    }
+]

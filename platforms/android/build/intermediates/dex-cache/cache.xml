@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_2f819d40c7c8e31ba439c4863e0b986717531a5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-11.0.4_d478762ae5430f42dcda5548cfb5036945d8098b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-11.0.4_36a1981f32dfc847ff065d7f280af7893276565d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_cc39ed93525773d7dd4de597de16988cfbc10de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\picasso-2.5.2_77c08209eb08872a0d4a8116fda50d23416a9a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-11.0.4_ae80679cb0e4c064930a1e739dd0e3388493458e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_ded8cc1cf751ca9926cd0623c514863cca1e5be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.commit451\PhotoView\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.commit451-PhotoView-1.2.4_814f6b7f6284b23dcd86fa2f5cd5e8a502c971f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_af8fd66804d5ef22d68a66b45fee889b122884b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-11.0.4_3bc582928dc94383b8436c7a9e365849e9c3819c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-11.0.4_52bd8a3e81fb5ffd10f5cfd65898653630ed0ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.5.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc006a0e3cffa83bbf4d8157cda67bc4ce3e9ca4">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.onesignal-OneSignal-3.5.6_31aeb98f4ebae7565abd3b59c45e6ef58b447fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_57e7528b915fbfbaf35080a8b46e3d5eb353f618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\customtabs\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b24e0a6d84a759f2094cbb27afd5ac9cb30275c9">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-customtabs-24.0.0_128aa65fbe75ff12f4ef3d94baafcee871f830e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_0fc423c05f462586e02c88d3539296e90eb84726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-11.0.4_faf409bf6198232501650ada3ef823fa89820fee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a1530ac850543228ac856fe951d258efe29f918">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.2.3-debug_3245f99d8d2540b6180807ad082f8b915fa06152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_357a6b6c483daa3231c5ce022ac771b05dfcff11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-11.0.4_c2dc221ee33d682f9f8aa98b4893306d40aa5989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_408d0e7fe4915070cab7ca51a4684c4370e55f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_31d2594d3affa587b680e4a19c868912a4baf48f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-11.0.4_51c0df1f1f176b0309789865d21a4788ef8e21e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-11.0.4_6781ad7da2fd1d6f1fbbf9a41afd70243a2e5303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_2fbf0f92b64417ec91c9528eb1326d71e36fb202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_d160a96cde75a5c556d7afe0fec7728518758481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-11.0.4_80fc61911c551da3d2245c048e3f17d2ce53fbf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\libs\sqlite-connector.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="76169ab23a4f939925491c6fe186749da5a56ee9">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\sqlite-connector_e68cd6d02ba08e0e471ef5f01fc619f6342eae0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_acbe2e81c9937c9bc12da2a4cae602e353ed7ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_e88cbc8120d01302ee3989297a78a9cde5392b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\programacion\Documents\AppMinkys\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_11b3b19f11b40d6731670de0884334cff163942d.jar" />
+    </item>
+
+</items>
