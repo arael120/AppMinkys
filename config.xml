@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.beicor.Tienda" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Beicor</name>
-    <description>APP_DESCRIPTION</description>
+<widget id="com.Minkys.Tienda" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Minkys</name>
+    <string name="app_name">Tienda Minkys</string>
+    <description>Tienda Minkys</description>
     <author email="hunterpricemx@gmail.com" href="www.hunterprice.com.mx">Mariano Romero</author>
     <content src="index.html" />
     <access origin="*" />
@@ -90,7 +91,6 @@
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
-    <engine name="android" spec="^6.2.3" />
     <plugin name="com-sarriaroman-photoviewer" spec="1.1.10" />
     <plugin name="cordova-android-play-services-gradle-release" spec="0.0.2" />
     <plugin name="cordova-plugin-admob-free" spec="0.9.0" />
@@ -114,4 +114,5 @@
     <plugin name="cordova.plugins.diagnostic" spec="^3.6.7" />
     <plugin name="ionic-plugin-keyboard" spec="2.2.1" />
     <plugin name="onesignal-cordova-plugin" spec="2.1.1" />
+    <engine name="android" spec="~6.3.0" />
 </widget>

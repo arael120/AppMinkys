@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi\\screen.png",
+        "source": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\res\\drawable-land-xxxhdpi\\screen.png"
+    },
+    {
         "merged": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi\\screen.png",
         "source": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\res\\drawable-land-xxxhdpi\\screen.png"
     }

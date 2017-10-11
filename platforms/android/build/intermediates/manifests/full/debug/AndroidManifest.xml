@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.beicor.Tienda"
+    package="com.Minkys.Tienda"
     android:hardwareAccelerated="true"
     android:versionCode="10000"
     android:versionName="1.0" >
@@ -40,10 +40,10 @@
         android:name="android.support.VERSION"
         android:value="25.3.1" /> <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
     <permission
-        android:name="com.beicor.Tienda.permission.C2D_MESSAGE"
+        android:name="com.Minkys.Tienda.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.beicor.Tienda.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.Minkys.Tienda.permission.C2D_MESSAGE" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
     <!--
  Required so the device vibrates on receiving a push notification.
@@ -79,7 +79,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true" >
         <activity
-            android:name="com.beicor.Tienda.MainActivity"
+            android:name="com.Minkys.Tienda.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale"
             android:label="@string/activity_name"
             android:launchMode="singleTop"
@@ -101,7 +101,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.beicor.Tienda.provider"
+            android:authorities="com.Minkys.Tienda.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -192,7 +192,7 @@
             <intent-filter android:priority="999" >
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.beicor.Tienda" />
+                <category android:name="com.Minkys.Tienda" />
             </intent-filter>
         </receiver>
         <receiver android:name="com.onesignal.NotificationOpenedReceiver" />

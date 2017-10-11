@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi\\icon.png",
         "source": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\res\\mipmap-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi\\icon.png",
+        "source": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\res\\mipmap-ldpi\\icon.png"
     }
 ]

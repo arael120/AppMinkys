@@ -1,58 +1,58 @@
 {
 	"general": {
 		"error_first": {
-			"message": "Can't connect to network, please check again",
+			"message": "No se puede conectar a la red.",
 			"button": "OK"
 		},
 		"login_expired": {
-			"message": "The authentication session has expired.",
+			"message": "La sesión de autenticación ha caducado.",
 			"button": "OK"
 		},
-		"disconnect": "Disconnected",
-		"no_data": "No products",
+		"disconnect": "Desconectado",
+		"no_data": "No hay productos",
 		"to_price": " - ",
-		"username": "Username *",
+		"username": "Usuario *",
 		"email": "Email *",
-		"first_name": "First name *",
-		"last_name": "Last name *",
-		"password": "Password *",
-		"reset": "RESET",
-		"need_login": "You need Login",
-		"login": "Login",
+		"first_name": "Nombre *",
+		"last_name": "Apellido *",
+		"password": "Contraseña *",
+		"reset": "REINICIAR",
+		"need_login": "Necesita iniciar sesión",
+		"login": "Iniciar",
 		"pullingIcon": "ios-refresh-outline",
 		"pullToRefresh": "",
-		"refreshingSpinner": "circles",
+		"refreshingSpinner": "círculos",
 		"refreshing": "",
 		"timeAgo": {
-			"minute": " minute ago",
-			"minutes": " minutes ago",
-			"hour": " hour ago",
-			"hours": " hours ago",
-			"day": " day ago",
-			"days": " days ago"
+			"minute": " hace un minuto",
+			"minutes": " hace unos minutos",
+			"hour": " hace una hora",
+			"hours": " hace unas horas",
+			"day": " hace un día",
+			"days": " hace unos días"
 		},
-		"has_error": "An error occurred, please try again later.",
-		"cancel": "Cancel",
+		"has_error": "Se ha producido un error. Vuelve a intentarlo más tarde..",
+		"cancel": "Cancelar",
 		"ok": "OK",
-		"copyright": "© 2017 Copyright. All rights reserved."
+		"copyright": "© 2017 Derechos de autor. Todos los derechos reservados."
 	},
 	"tabs": {
-		"home": "Home",
-		"categories": "Categories",
-		"search": "Search",
-		"account": "Me"
+		"home": "Inicio",
+		"categories": "Categorías",
+		"search": "Buscar",
+		"account": "Cuenta"
 	},
 	"home": {
-		"deal": "Deal of the day",
-		"sale": "sale",
-		"latest": "Latest",
-		"all": "All",
-		"viewAll": "View All",
-		"categories": "Our categories",
-		"no_categories": "No categories",
-		"whatClientSay": "WHAT'S CLIENT SAY?",
-		"newsletter": "Newsletter",
-		"newsletterInput": "Enter your e-mail",
+		"deal": "Oferta del día",
+		"sale": "Liquidación",
+		"latest": "Último",
+		"all": "Todo",
+		"viewAll": "Ver Todo",
+		"categories": "Nuestras categorías",
+		"no_categories": "No hay categorías",
+		"whatClientSay": "¿QUÉ DICE EL CLIENTE?",
+		"newsletter": "Noticias",
+		"newsletterInput": "Introduce tu correo",
 		"services": [
 			{
 				"title": "7 Day Free Returns",
@@ -77,41 +77,41 @@
 		]
 	},
 	"categories": {
-		"title": "Categories",
-		"no_data": "No categories",
-		"category": "Category",
-		"filter": "Filter",
-		"sort": "Sort",
-		"sold": "Sold: ",
-		"done": "DONE",
-		"price_range": "Price Range: ",
+		"title": "Categorías",
+		"no_data": "No hay categorías",
+		"category": "Categoría",
+		"filter": "Filtro",
+		"sort": "Ordenar",
+		"sold": "Vendido: ",
+		"done": "HECHO",
+		"price_range": "Rango de precios: ",
 		"sortData": [
 			{
-				"text": "Time: Latest",
+				"text": "Tiempo: Últimas",
 				"value": "-date_created_gmt"
 			},
 			{
-				"text": "Price: Lowest first",
+				"text": "Precio: el más bajo primero",
 				"value": "price"
 			},
 			{
-				"text": "Price: Highest first",
+				"text": "Precio: más caros primero",
 				"value": "-price"
 			},
 			{
-				"text": "Product Name: A to Z",
+				"text": "Nombre: A a Z",
 				"value": "name"
 			},
 			{
-				"text": "Product Name: Z to A",
+				"text": "Nombre: Z to A",
 				"value": "-name"
 			}
 		]
 	},
 	"search": {
-		"title": "Search for products",
-		"no_result": "No result",
-		"sold": "Sold: "
+		"title": "Búsqueda de productos",
+		"no_result": "Sin resultados",
+		"sold": "Vendido: "
 	},
 	"account": {
 		"login": "LOGIN",

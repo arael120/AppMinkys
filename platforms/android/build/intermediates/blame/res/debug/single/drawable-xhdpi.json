@@ -8,7 +8,19 @@
         "source": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\res\\drawable-xhdpi\\ic_action_next_item.png"
     },
     {
+        "merged": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_next_item.png",
+        "source": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\res\\drawable-xhdpi\\ic_action_next_item.png"
+    },
+    {
         "merged": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_previous_item.png",
         "source": "C:\\Users\\programacion\\Documents\\AppMinkys\\platforms\\android\\res\\drawable-xhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_remove.png",
+        "source": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_previous_item.png",
+        "source": "C:\\Users\\programacion\\Documents\\Minkys_App_final\\platforms\\android\\res\\drawable-xhdpi\\ic_action_previous_item.png"
     }
 ]
